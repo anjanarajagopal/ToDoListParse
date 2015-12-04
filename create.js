@@ -15,3 +15,12 @@ homeworklist.save(null, {
 	}
 });
 console.log(homeworklist);
+/*console.log("task1 finished!");
+homeworklist.unset("task1");
+homeworklist.save();
+console.log("task2 finished!");
+homeworklist.unset("task2");
+homeworklist.save();
+console.log("task3 finished!");
+homeworklist.unset("task3");
+homeworklist.save();*/
